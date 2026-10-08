@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Leaf Motif -->
+    <path
+        android:fillColor="#7BB062"
+        android:pathData="M54,20 C35,20 25,45 25,65 C25,85 38,90 54,90 C70,90 83,85 83,65 C83,45 73,20 54,20 Z" />
+
+    <!-- Stylized 'E' -->
+    <path
+        android:strokeColor="#F5F1E9"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M65,45 L45,45 L45,65 L65,65 M45,55 L60,55" />
+
+</vector>
